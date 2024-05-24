@@ -8,7 +8,7 @@ Will be using a couple resources :
 
 I will be using this website (https://www.practicepython.org/)[https://www.practicepython.org/] to practice 
 
-- [ ] Character Input 
+- [x] Character Input 
 - [ ] Odd Or Even 
 - [ ] List Less Than Ten  
 - [ ] Divisors  
