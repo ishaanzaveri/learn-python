@@ -11,11 +11,11 @@ I will be using this website [https://www.practicepython.org/](https://www.pract
 - [x] Character Input 
 - [x] Odd Or Even 
 - [x] List Less Than Ten  
-- [ ] Divisors  
-- [ ] List Overlap  
-- [ ] String Lists  
-- [ ] List Comprehensions  
-- [ ] Rock Paper Scissors   
+- [x] Divisors  
+- [x] List Overlap  
+- [x] String Lists  
+- [x] List Comprehensions  
+- [x] Rock Paper Scissors   
 - [ ] Guessing Game One   
 - [ ] List Overlap Comprehensions  
 - [ ] Check Primality Functions   
