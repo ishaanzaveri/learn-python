@@ -6,11 +6,11 @@ Will be using a couple resources :
 
 ## Practice python . org
 
-I will be using this website (https://www.practicepython.org/)[https://www.practicepython.org/] to practice 
+I will be using this website [https://www.practicepython.org/](https://www.practicepython.org/) to practice 
 
 - [x] Character Input 
 - [x] Odd Or Even 
-- [ ] List Less Than Ten  
+- [x] List Less Than Ten  
 - [ ] Divisors  
 - [ ] List Overlap  
 - [ ] String Lists  
@@ -51,7 +51,7 @@ I will be using this website (https://www.practicepython.org/)[https://www.pract
 
 ## Master python programming exercises 
 
-I will be using (this repo)[https://github.com/4GeeksAcademy/master-python-programming-exercises/tree/master/exercises] as well
+I will be using [this repo](https://github.com/4GeeksAcademy/master-python-programming-exercises/tree/master/exercises) as well
 
 - [ ] 000-welcome
 - [ ] 001-hello_world
