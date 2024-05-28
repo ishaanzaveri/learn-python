@@ -17,7 +17,7 @@ I will be using this website [https://www.practicepython.org/](https://www.pract
 - [x] List Comprehensions  
 - [x] Rock Paper Scissors   
 - [x] Guessing Game One   
-- [ ] List Overlap Comprehensions  
+- [x] List Overlap Comprehensions  
 - [ ] Check Primality Functions   
 - [ ] List Ends 
 - [ ] Fibonacci  
