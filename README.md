@@ -18,7 +18,7 @@ I will be using this website [https://www.practicepython.org/](https://www.pract
 - [x] Rock Paper Scissors   
 - [x] Guessing Game One   
 - [x] List Overlap Comprehensions  
-- [ ] Check Primality Functions   
+- [x] Check Primality Functions   
 - [ ] List Ends 
 - [ ] Fibonacci  
 - [ ] List Remove Duplicates  
