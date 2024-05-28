@@ -16,7 +16,7 @@ I will be using this website [https://www.practicepython.org/](https://www.pract
 - [x] String Lists  
 - [x] List Comprehensions  
 - [x] Rock Paper Scissors   
-- [ ] Guessing Game One   
+- [x] Guessing Game One   
 - [ ] List Overlap Comprehensions  
 - [ ] Check Primality Functions   
 - [ ] List Ends 
